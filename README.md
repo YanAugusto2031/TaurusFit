@@ -208,7 +208,7 @@ A documentação completa inclui:
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
 <p>Yan Augusto<p/>
 <p>Thiago Batista<p/>
