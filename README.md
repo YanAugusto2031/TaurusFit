@@ -210,10 +210,10 @@ A documentação completa inclui:
 
 # 👨‍💻 Autor
 
-**Yan Augusto**
-**Thiago Batista**
-**Kaua Lessa**
-Estudantes de Ciência da Computação
+#**Yan Augusto**
+#**Thiago Batista**
+#**Kaua Lessa**
+#Estudantes de Ciência da Computação
 
 ---
 
